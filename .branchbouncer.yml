@@ -7,7 +7,7 @@ rules:
     minPublicRepos: 3
   - id: pr-total-changes-min
     enabled: true
-    minTotalChanges: 20
+    minTotalChanges: 200
   - id: block-protected-paths
     enabled: true
     blockedPaths:
